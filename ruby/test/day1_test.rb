@@ -1,4 +1,4 @@
-require "day1.rb"
+require "day1"
 require "minitest/autorun"
 
 class TestDay1 < Minitest::Test

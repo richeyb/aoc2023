@@ -2,12 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     minitest (5.20.0)
+    prettyprint (0.2.0)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
   minitest
+  prettyprint
 
 BUNDLED WITH
    2.4.7
