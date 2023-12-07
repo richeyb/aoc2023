@@ -19,6 +19,6 @@ class TestDay3 < Minitest::Test
 
   def test_day3_test_part2
     day = Day3.new("inputs/day3/day3_test.txt")
-    assert_equal 540025, day.part2()
+    assert_equal 84584891, day.part2()
   end
 end
